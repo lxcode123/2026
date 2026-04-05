@@ -2,7 +2,7 @@
 using namespcae std;
 int main()
 {
-	printf(jjjj)
+	printf(jjjsssj)
 	return 0;
 }
 
